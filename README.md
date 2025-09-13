@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shruti</h1>
 <h3 align="center">A passionate backend developer and curious learner</h3>
 
-A passionate and driven final-year B.Tech CSE student specializing in backend development. My journey in technology is fueled by a love for building robust, scalable and efficient systems. I thrive on the challenge of transforming complex problems into clean, elegant code and have a deep appreciation for the architecture that powers modern applications.
+I'm a passionate final-year B.Tech CSE student specializing in backend development. My journey in technology is fueled by a love for building robust, scalable and efficient systems. I thrive on the challenge of transforming complex problems into clean, elegant code and have a deep appreciation for the architecture that powers modern applications.
 
 My expertise lies in the **Java** ecosystem, with a strong focus on **Spring Boot** for building powerful backend services. While my heart is in the backend, I also have experience with **React** for creating dynamic frontends and **MySQL** for managing data. I am a lifelong learner, always exploring new technologies and best practices to push the boundaries of what I can build.
 
