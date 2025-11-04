@@ -28,4 +28,4 @@ I am actively seeking full-time opportunities where I can contribute to a great 
 <a href="https://auth.geeksforgeeks.org/user/shruti0491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shruti0491" height="30" width="40" /></a>
 </p>
 
-📫 How to reach me - [shrutic714@gmail.com](shrutic714@gmail.com)
+📫 How to reach me - [shrutiiic02@gmail.com](shrutiiic02@gmail.com)
